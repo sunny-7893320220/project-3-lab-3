@@ -7,4 +7,4 @@ cd /tmp
 git clone https://github.com/sunny-7893320220/Medical-Insurance.git
 cd /tmp/Medical-Insurance/
 pip3 install -r requirements.txt
-sudo screen -m -d python3 app.py
+screen -m -d python3 app.py
